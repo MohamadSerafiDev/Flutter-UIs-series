@@ -41,4 +41,4 @@ This project demonstrates the implementation of a neumorphic design style for a 
 
 ## Screenshot
 
-[Screenshots will be added here]
+![PS5 Controller UI](https://github.com/MohamadSerafiDev/Flutter-UIs-series/blob/main/screen-shot.png)
