@@ -2,6 +2,10 @@
 
 A Flutter project showcasing a neumorphic PlayStation 5 controller UI design.
 
+## Screenshot
+
+![PS5 Controller UI](https://github.com/MohamadSerafiDev/Flutter-UIs-series/blob/main/screen-shot.png)
+
 ## Description
 
 This project demonstrates the implementation of a neumorphic design style for a PlayStation 5 controller interface. The UI features:
@@ -38,7 +42,3 @@ This project demonstrates the implementation of a neumorphic design style for a 
 
 -   flutter_svg: For rendering SVG assets
 -   gap: For creating spacing in layouts
-
-## Screenshot
-
-![PS5 Controller UI](https://github.com/MohamadSerafiDev/Flutter-UIs-series/blob/main/screen-shot.png)
